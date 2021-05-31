@@ -1,0 +1,25 @@
+#options-div {
+    display: flex;
+    flex-direction: column;
+}
+
+.answer {
+    padding: 10px;
+    background-color: yellowgreen;
+    color: black;
+    cursor:pointer;
+}
+
+
+.answer-selected {
+    background-color: red !important;
+}
+
+#options-div {
+    height: 300px;
+    background-color: lightcyan;
+}
+
+div {
+    margin: 20px 0;
+}
